@@ -1,8 +1,10 @@
 ### 【机器学习】白板手推系列笔记
 
-本人学习了此系列课程，认为手推公式清晰明了。特此做了学习笔记。
+本人学习了此系列课程，讲解的很好，提高了对于模型的理解。特此做了学习笔记。
 
-[B站播放链接](https://www.bilibili.com/video/BV1aE411o7qd?from=search&seid=1772646592738593579)
+目前已更新到系列35，更多可到up主的主页观看。[主页链接](https://space.bilibili.com/97068901/video)
+
+[B站播放链接1-23章](https://www.bilibili.com/video/BV1aE411o7qd?from=search&seid=1772646592738593579)
 
 目录如下：
 
